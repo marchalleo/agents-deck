@@ -4,7 +4,7 @@
 ## Fait
 - Brainstorm validé (`brainstorm.md`)
 - Cahier des charges validé (`cahier-des-charges.md`)
-- Fork créé, tickets de la V1 créés : #2 à #6
+- Fork créé, milestones V1 à V3 créés, tickets de la V1 (#2 à #6) rangés dans « V1 — Installation et test »
 
 ## En cours
 - Rien
@@ -15,5 +15,4 @@
 - À la fin des tests : #6 Choix de la suite du projet
 
 ## À régler plus tard
-- Milestones (V1, V2, V3) : Léo décidera s'ils sont vraiment utiles
 - Sujet `lmg` et lien au tableau « Leamaginarium » : à faire par Léo sur GitHub
