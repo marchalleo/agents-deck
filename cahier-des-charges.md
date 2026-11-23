@@ -11,7 +11,7 @@
 | **Dépôt** | Fork **public** de l'auteur, sur ton compte GitHub, sous le nom `agents-deck` (renommable plus tard) |
 | **Équipe** | 🧭 🎨 💻 🛠️ + expert 🔌 ingé électronique (pour l'écran ESP32) |
 
-## V1 — « Ça tourne chez moi »
+## V1 — Installation et test
 Ce qu'elle fait :
 - La version de l'auteur est installée sur ton Mac, **sans rien modifier**.
 - Tes sessions Claude Code apparaissent dans la **barre de menu**, avec leur état : au travail, t'attend, terminé.
@@ -22,12 +22,12 @@ C'est fini quand : tu lances une session Claude Code dans `~/Leamaginarium`, tu 
 
 **➜ Décision à la fin de la V1** : garder le fork et suivre l'auteur, ou refaire notre propre version, plus légère. On la prend selon tes essais et l'activité de l'auteur.
 
-## V2 — « À notre image »
+## V2 — Traduction et identité visuelle
 - **Interface en français**. Si on garde le fork : on ajoute un fichier de traductions. Si on refait notre version : textes bilingues dès le départ.
 - **Style** : couleurs, polices, créatures et mascottes, identité Leamaginarium, disposition. On le précisera dans un brainstorm, à partir de ta liste d'envies.
 - **Un nom à nous**.
 
-## V3 — « Sur le bureau »
+## V3 — Écran de bureau et boîtier
 - **Écran carré 4″** (Waveshare ESP32-S3-Touch-LCD-4), flashé et branché en USB. Il affiche les mêmes tuiles que le Mac.
 - **Boîtier imprimé en 3D** autour de l'écran.
 - *La V2 et la V3 peuvent s'inverser selon le moment où tu achètes l'écran.*

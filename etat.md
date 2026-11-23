@@ -9,5 +9,5 @@
 - Création du fork `marchalleo/agents-deck`, du sujet `lmg`, des versions et des étiquettes
 
 ## Prochaine étape
-- Découper la V1 « Ça tourne chez moi » en tickets (procédure `tickets`)
+- Découper la V1 « Installation et test » en tickets (procédure `tickets`)
 - Puis, sur le Mac : installer le `.dmg` de l'auteur et tester

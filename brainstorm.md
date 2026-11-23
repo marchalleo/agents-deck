@@ -5,7 +5,7 @@
 > Pour Léo : usage purement privé, en français, avec le style revu.
 > **Principe** : on **teste d'abord** la version de l'auteur, puis on décide de la suite.
 
-## ✅ Proposé pour la V1 : « tester la version de l'auteur »
+## ✅ Proposé pour la V1 : installation et test
 - [x] 1. **Fork public** du dépôt sur ton compte GitHub, pour tester — ✅ Léo
 - [x] 2. **Installer la version de l'auteur telle quelle** sur ton Mac (puce Apple, macOS 26.6), et voir tes sessions dans la **barre de menu**. Aucun matériel nécessaire.
 - [x] 5. **Liste « ce que je veux changer »**, remplie pendant les tests. Elle sert d'entrée à la décision 13 et au brainstorm de la V2.
