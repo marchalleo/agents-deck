@@ -12,3 +12,4 @@
 | 23/11/2026 | Fin de V1 : choisir entre garder le fork et refaire notre version | Ça dépend des essais et de l'activité de l'auteur | Léo |
 | 23/11/2026 | Aucun lien avec Zee | Deux projets indépendants | Léo |
 | 23/11/2026 | Fichiers de l'agence ajoutés à la racine, sans toucher aux fichiers de l'auteur | Récupérer ses mises à jour sans conflit | Léo |
+| 24/11/2026 | Suivi des versions par un ticket « Version » (#7, #8, #9) avec sous-tickets. Abandon des milestones et du tableau GitHub Projects | Progression lisible sur téléphone, et rien à régler pour Léo : Claude gère tout | Léo |
